@@ -1,13 +1,13 @@
-import React from 'react';
-// import './searchField_style.css'
+// import React from 'react';
+// // import './searchField_style.css'
 
- const SearchField=({placeholder}, {handleChange})=> {
-    return (
+//  const SearchField=({placeholder}, {handleChange})=> {
+//     return (
       
-      <input className='search' type='search' placeholder={placeholder} onChange={handleChange}/>
+//       <input className='search' type='search' placeholder={placeholder} onChange={handleChange}/>
             
       
-    );
-}
+//     );
+// }
 
-export default SearchField;
+// export default SearchField;

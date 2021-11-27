@@ -1,7 +1,9 @@
 import React from "react";
-import Cards from "./card-component";
+import Cards from "../cards/card-component";
 import { connect } from "react-redux";
 import { setSearchField } from "../redux/searchField/searchField.actions";
+import './card-list-styles.css'
+
 
 const Cardlist = (props) => {
   const handleChange = (e) => {

@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { Component } from "react";
-import Cardlist from "./components/card-list-component";
+import Cardlist from "./card-list/card-list-component";
 import { connect } from "react-redux";
 
 import { setRocket } from "./redux/rocket/rocket.actions";
