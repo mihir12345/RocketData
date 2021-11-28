@@ -1,9 +1,9 @@
-# RocketData
+## RocketData
 This app was created for the Mihir pre-work. It pulls data from the spacex Open Data Portal API
 
 LIVE LINK : https://rocket-data.netlify.app/
 
-#Features
+## Features
 The data is displayed into a cards, the cards are scrollable in multiple directions to see all the data.
 
 Click on the searchbar to filter search rocket by name .
@@ -14,7 +14,7 @@ Filter search are case-insensitive.
 
 Chart is paginated into 50 results at a time, and the previous / next buttons are active only when there are enough entries to use them
 
-#Tech Used / Dependencies
+## Tech Used / Dependencies
 This is a React App
 
 Add-on packages include:
